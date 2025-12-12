@@ -1,4 +1,4 @@
-# Langchain-rag-with-pdf
+# Langchain-rag-with-csv
 # 🧠 IT Helpdesk RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) project that builds an intelligent question-answering assistant using an IT Helpdesk knowledge base stored in CSV format. It utilizes **LangChain**, **FAISS**, and **Hugging Face** models to answer user queries with high context accuracy.
